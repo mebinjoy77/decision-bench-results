@@ -1,0 +1,10 @@
+{
+  "adapter": "noah-setdecide-v06",
+  "model_type": "decision-model",
+  "name": "beinexai/noah-decide-v06-research",
+  "open_weights": true,
+  "parameter_count": null,
+  "probability_source": "set_head_softmax_temp_per_type_v06",
+  "revision": "860aeef6bbdea2be732800739ae785b8927d970c",
+  "url": "https://huggingface.co/beinexai/noah-decide-v06-research"
+}
